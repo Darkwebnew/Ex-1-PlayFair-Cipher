@@ -1,4 +1,6 @@
-# Ex-2 PlayFair Cipher
+# Ex-2 PLAYFAIR CIPHER
+
+## DATE:
 
 ## AIM:
 
