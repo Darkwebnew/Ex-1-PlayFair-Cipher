@@ -18,7 +18,11 @@ To implement a program to encrypt a plain text and decrypt a cipher text using p
 
 Step 1: Design of PlayFair Cipher algorithnm
 
+<br>
+
 Step 2: Implementation using C or pyhton code
+
+<br>
 
 Step 3: Testing algorithm with different key values.
 
